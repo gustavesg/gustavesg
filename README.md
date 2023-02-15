@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The mouse gnawed the clothing of Roma's king
 - 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gustavesg](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?gustavesg](https://github.com/anuraghazra/github-readme-stats)
