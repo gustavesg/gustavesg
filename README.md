@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The mouse gnawed the clothing of Roma's king
 - 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavesg&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavesg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
