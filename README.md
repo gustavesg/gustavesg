@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Applied Mathematics 
+- 🌱 I’m currently  studying Applied Mathematics at University of Sao Paulo
 - 📫 How to reach me: gustavosg@usp.br
-- 😄 Pronouns: he/him\\
+- 😄 Pronouns: he
 - ⚡ Fun fact: The mouse gnawed the clothing of Roma's king
 
 
