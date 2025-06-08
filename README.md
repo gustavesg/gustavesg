@@ -15,3 +15,7 @@
 :building_construction: SQL
 
 :green_book: Excel
+
+### Advanced knowledge in: 
+
+Data Analysis, Data Processing, Forecast Modeling: Logistic and Linear regression, Decision Tree, KNN, esemble methods and others; demand and supply analysis; elasticity analysis; variable optimization algorithms.
