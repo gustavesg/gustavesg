@@ -18,4 +18,4 @@
 
 ### Advanced knowledge in: 
 
-Data Analysis, Data Processing, Forecast Modeling: Logistic and Linear regression, Decision Tree, KNN, esemble methods and others; demand and supply analysis; elasticity analysis; variable optimization algorithms.
+Data Analysis, Data Processing, Forecast Modeling: Logistic and Linear regression, Decision Tree, KNN, Esemble Methods and others; Demand and Supply Analysis; Elasticity Analysis; Variable Optimization Algorithms.
